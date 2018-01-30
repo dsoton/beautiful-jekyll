@@ -74,14 +74,14 @@ social-network-links:
   email: dcsoto@ucdavis.edu
   github: dcsoto
   twitter: DaniSotoCL
+  linkedin: dcsoto
   instagram: DaniSotoCL
   behance: dcsoto
-  linkedin: dcsoto
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   google: false
   linkedin: true
   rss: false
