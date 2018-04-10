@@ -1,3 +1,8 @@
+---
+layout: page
+title: My CV
+---
+
 ## Education
 
 **Ph.D.** University of California Davis (2017-present)  
