@@ -100,3 +100,8 @@ behance:
   name: "Behance"
   baseURL: "https://www.behance.net/"
   icon: "fa-behance"
+
+google-scholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.cl/citations?user="
+  icon: "fa-google-scholar"
