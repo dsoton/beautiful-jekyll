@@ -51,22 +51,26 @@ Sánchez, Benjamín J., Daniela C. Soto, Héctor Jorquera, Claudio A. Gelmi, and
 ### Conferences
 
 Soto D., Varala K., Araus V., Carrasco-Puga G., Díaz F., Nilo-Poyanco R., Coruzzi G., Gutiérrez R. Metatranscriptomic approach reveals conserved adaptive processes in Atacama Desert plants. XI Chilean Plant Biology Meeting, Chillán, Chile. November, 2016. (Talk)
+
 Gabriela Carrasco-Puga, Francisca P. Díaz, Daniela C. Soto, Claudio Latorre, Rodrigo A. Gutiérrez. Reconstructed hidden plant diversity using soil DNA in the Andean Atacama. XI Chilean Plant Biology Meeting, Chillán, Chile. November, 2016. (Poster)
+
 Gabriela Carrasco-Puga, Francisca P. Díaz, Daniela C. Soto, Claudio Latorre, Rodrigo A. Gutiérrez. Biodiversidad vegetal oculta reconstruida usando ADN en el suelo del Atacama Andino. LIX Chilean Biology Society Annual Meeting - X Chilean Evolution Society Annual Meeting – XXVII Chilean Botanical Society Annual Meeting. October, 2016. (Talk)
+
 Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties and biological response in tyrosine-derived polyarylates. XXIII International Material Research Congress, Cancun, Mexico. August, 2014. (Talk)
+
 Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties and biological response in tyrosine-derived polyarylates explored by association rules. XXVI Annual Conference of the European European Society for Biomaterials. Liverpool, United Kingdom. August, 2014. (Poster)
 
 ### Courses and seminars	
 
 - Big Data for the Public Good. April 12-15, 2018
-  Fulbright Enrichment Seminar, Philadelphia, PA. 
+Fulbright Enrichment Seminar, Philadelphia, PA. 
 - Structural Bioinformatics and Drug Design Summer School. Jan 20-24, 2014
-  Pontificia Universidad Católica de Chile. Santiago, Chile. 	
+Pontificia Universidad Católica de Chile. Santiago, Chile. 	
 
 ### Skills and qualifications
 
 - Programming languages: R, Python, MATLAB®
-- Scripting & Query Languages: Shell Scripting, SQL
+- Scripting & Query Languages: Bash, SQL
 - Markup languages: Markdown
 - Version control system: Git
 - Graphic design software: Adobe Illustrator
