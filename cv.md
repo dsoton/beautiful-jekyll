@@ -3,42 +3,41 @@ dcsoto[at]ucdavis[dot]edu
 
 ### Education
 
-**Ph.D. University of California Davis** 2017-present 
+**Ph.D.** University of California Davis (2017-present)  
 Integrative Genetics and Genomics Graduate Group
-<br>
-**M.Sc.Eng. Pontificia Universidad Católica de Chile** 2012-2015
+
+**M.Sc.Eng.** Pontificia Universidad Católica de Chile (2012-2015)  
 Specialization in Chemistry and Bioprocess Engineering 
-<br> 
-**Biological Engineering Pontificia Universidad Católica de Chile** 2007-2015
+
+**Biological Engineering** Pontificia Universidad Católica de Chile (2007-2015)  
 Specialization in Bioprocess
-<br>
-**B.Sc.Eng. Pontificia Universidad Católica de Chile** 2007-2012
-<br>
+
+**B.Sc.Eng.** Pontificia Universidad Católica de Chile (2007-2012)
+
 ### Research experience				
 
-Bioinformatics Support 
-Plant Systems Biology Lab, Pontificia Universidad Católica de Chile 
-▪	Handling and analyzing next-generation sequencing data using high performance computing. Performing functional analysis of RNA-seq data from endemic Atacama plants and DNA metabarcoding. Experience in Unix environments. Programming in R, Python and Matlab.	2015-2017
-Research Assistant
-Fondecyt Project 1112-1392, Pontificia Universidad Católica de Chile
-▪	Processing and analyzing of biomedical polymers.	2012-2014                     
-Part-Time Researcher
-Research and Development Department, Biofiltro SPA
-▪	Improvement of the performance of an earthworm-based wastewater filter by mounting a pilot plant and analyzing obtained data using mathematical modeling and data mining techniques.	2013
+**Bioinformatics Support** Plant Systems Biology Lab, Pontificia Universidad Católica de Chile (2015-2017)
+-	Handling and analyzing next-generation sequencing data using high performance computing. Performing functional analysis of RNA-seq data from endemic Atacama plants and DNA metabarcoding. Experience in Unix environments. Programming in R, Python and Matlab.	
+
+**Research Assistant** Pontificia Universidad Católica de Chile (2012-2014)
+-	Processing and analyzing of biomedical polymers.
+
+**Part-Time Researcher** Biofiltro SPA (2013)
+-	Improvement of the performance of an earthworm-based wastewater filter by mounting a pilot plant and analyzing obtained data using mathematical modeling and data mining techniques.
 
 ### Teaching experience
 
 **Teaching Assistant** Pontificia Universidad Católica de Chile  
-Mathematics Applied to Process Engineering (Fall 2013)  
-Biopolymers (Spring 2012-2013)  
-Microbial Biotechnology (Fall 2012)  
+- Mathematics Applied to Process Engineering (Fall 2013)
+- Biopolymers (Spring 2012-2013)
+- Microbial Biotechnology (Fall 2012)
 
 ### Fellowships, grants and awards
 
-▪	CONICYT Fellowship for Ph.D. studies (2017)
-▪	Fulbright Grantee for Ph.D. studies	(2016)
-▪	Best oral presentation, XI Chilean Plant Biology Meeting (2016)                     
-▪	Chile's National Commission for Scientific and Technological Research Scholarship for MSc studies in Chile (2014)
+-	CONICYT Fellowship for Ph.D. studies (2017)
+-	Fulbright Grantee for Ph.D. studies	(2016)
+-	Best oral presentation, XI Chilean Plant Biology Meeting (2016)                     
+-	Chile's National Commission for Scientific and Technological Research Scholarship for MSc studies in Chile (2014)
  
 ### Publications
 
@@ -76,7 +75,7 @@ Pontificia Universidad Católica de Chile. Santiago, Chile.
 - Version control system: Git
 - Graphic design software: Adobe Illustrator
 - Language skills: Spanish (native language), English (fluent)
- 
+
 ### Community service and other
 
 - Volunteer Girls in Tech Chile: Diffusion and events support for Chilean Chapter of Girls in Tech, a non-profit organization that promotes women in STEM careers.
