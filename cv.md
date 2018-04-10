@@ -2,19 +2,18 @@
 dcsoto[at]ucdavis[dot]edu
 
 ### Education
-	
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-	
-| --- | --- | 
-| **Ph.D. University of California Davis** <br> Integrative Genetics and Genomics Graduate Group | 2017-present |
-| **M.Sc.Eng. Pontificia Universidad Católica de Chile** <br> Specialization in Chemistry and Bioprocess Engineering | 2012-2015 |
-| **Biological Engineering Pontificia Universidad Católica de Chile** <br> Specialization in Bioprocess | 2007-2015 |
-| **B.Sc.Eng. Pontificia Universidad Católica de Chile** | 2007-2012 |
-| --- | --- |
 
+**Ph.D. University of California Davis** 2017-present 
+Integrative Genetics and Genomics Graduate Group
+<br>
+**M.Sc.Eng. Pontificia Universidad Católica de Chile** 2012-2015
+Specialization in Chemistry and Bioprocess Engineering 
+<br> 
+**Biological Engineering Pontificia Universidad Católica de Chile** 2007-2015
+Specialization in Bioprocess
+<br>
+**B.Sc.Eng. Pontificia Universidad Católica de Chile** 2007-2012
+<br>
 ### Research experience				
 
 Bioinformatics Support 
