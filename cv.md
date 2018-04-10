@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My CV
+title: CV
 ---
 
 ## Education
