@@ -1,9 +1,9 @@
-# Daniela C. Soto
+## Daniela C. Soto
 dcsoto[at]ucdavis[dot]edu
 
-## EDUCATION
+### EDUCATION
 		
-Ph.D. University of California Davis
+- Ph.D. University of California Davis
 ▪	Integrative Genetics and Genomics Graduate Group	2017-present
 M.Sc.Eng. Pontificia Universidad Católica de Chile 
 ▪	Specialization in Chemistry and Bioprocess Engineering	2012-2015
@@ -13,7 +13,7 @@ Biological Engineering Pontificia Universidad Católica de Chile
 B.Sc.Eng. Pontificia Universidad Católica de Chile
 ▪	Cum laude	2007-2012
 
-## RESEARCH EXPERIENCE				
+### RESEARCH EXPERIENCE				
 
 Bioinformatics Support 
 Plant Systems Biology Lab, Pontificia Universidad Católica de Chile 
@@ -25,7 +25,7 @@ Part-Time Researcher
 Research and Development Department, Biofiltro SPA
 ▪	Improvement of the performance of an earthworm-based wastewater filter by mounting a pilot plant and analyzing obtained data using mathematical modeling and data mining techniques.	2013
 
-## TEACHING EXPERIENCE	
+### TEACHING EXPERIENCE	
 
 Teaching Assistant Pontificia Universidad Católica de Chile
 ▪	Mathematics Applied to Process Engineering (Fall 2013)
@@ -39,13 +39,13 @@ FELLOWSHIPS, GRANTS AND AWARDS
 ▪	Best oral presentation, XI Chilean Plant Biology Meeting	2016                     
 ▪	Chile’s National Commission for Scientific and Technological Research Scholarship for MSc studies in Chile	2014
  
-## PUBLICATIONS
+### PUBLICATIONS
 
 Contreras-López, Orlando, Tomás C. Moyano, Daniela C. Soto, and Rodrigo A. Gutiérrez. 2018. “Step-by-Step Construction of Gene Co-Expression Networks from High-Throughput Arabidopsis RNA Sequencing Data.” In Root Development, 275–301. Methods in Molecular Biology. Humana Press, New York, NY.
 Vidal, Elena A., Tomas C. Moyano, Bernabe I. Bustos, Eduardo Perez-Palma, Carol Moraga, Alejandro Montecinos, Lorena Azocar, Daniela C. Soto, et al. 2018. “Whole Genome Sequence of Mapuche-Huilliche Native Americans.” bioRxiv. https://doi.org/10.1101/252619.
 Sánchez, Benjamín J., Daniela C. Soto, Héctor Jorquera, Claudio A. Gelmi, and José R. Pérez-Correa. 2014. “HIPPO: An Iterative Reparametrization Method for Identification and Calibration of Dynamic Bioreactor Models of Complex Processes.” Industrial & Engineering Chemistry Research 53 (48). American Chemical Society: 18514–25.
 
-## CONFERENCES
+### CONFERENCES
 
 Soto D., Varala K., Araus V., Carrasco-Puga G., Díaz F., Nilo-Poyanco R., Coruzzi G., Gutiérrez R. Metatranscriptomic approach reveals conserved adaptive processes in Atacama Desert plants. XI Chilean Plant Biology Meeting, Chillán, Chile. November, 2016. (Talk)
 Gabriela Carrasco-Puga, Francisca P. Díaz, Daniela C. Soto, Claudio Latorre, Rodrigo A. Gutiérrez. Reconstructed hidden plant diversity using soil DNA in the Andean Atacama. XI Chilean Plant Biology Meeting, Chillán, Chile. November, 2016. (Poster)
@@ -53,25 +53,25 @@ Gabriela Carrasco-Puga, Francisca P. Díaz, Daniela C. Soto, Claudio Latorre, Ro
 Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties and biological response in tyrosine-derived polyarylates. XXIII International Material Research Congress, Cancun, Mexico. August, 2014. (Talk)
 Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties and biological response in tyrosine-derived polyarylates explored by association rules. XXVI Annual Conference of the European European Society for Biomaterials. Liverpool, United Kingdom. August, 2014. (Poster)
 
-## COURSES AND SEMINARS	
+### COURSES AND SEMINARS	
 
-Big Data for the Public Good
-Fulbright Enrichment Seminar, Philadelphia, PA.	April 12-15, 2018
-Structural Bioinformatics and Drug Design Summer School
-Pontificia Universidad Católica de Chile. Santiago, Chile. 	Jan 20-24, 2014
+- Big Data for the Public Good. April 12-15, 2018
+  Fulbright Enrichment Seminar, Philadelphia, PA. 
+- Structural Bioinformatics and Drug Design Summer School. Jan 20-24, 2014
+  Pontificia Universidad Católica de Chile. Santiago, Chile. 	
 
-SKILLS & QUALIFICATIONS
+### SKILLS & QUALIFICATIONS
 
-▪	Programming languages: R, Python, MATLAB®
-▪	Scripting & Query Languages: Shell Scripting, SQL
-▪	Markup languages: Markdown
-▪	Version control system: Git
-▪	Graphic design software: Adobe Illustrator
-▪	Language skills: Spanish (native language), English (fluent)
+- Programming languages: R, Python, MATLAB®
+- Scripting & Query Languages: Shell Scripting, SQL
+- Markup languages: Markdown
+- Version control system: Git
+- Graphic design software: Adobe Illustrator
+- Language skills: Spanish (native language), English (fluent)
  
-COMMUNITY SERVICE AND OTHER
+### COMMUNITY SERVICE AND OTHER
 
-▪	Volunteer Girls in Tech Chile: Diffusion and events support for Chilean Chapter of Girls in Tech, a non-profit organization that promotes women in STEM careers.
-▪	Organizational committee for International Plant Biology Course. November 2016.
-▪	Logo design for the Chilean Society of Plant Biologists. June 2016.
-▪	Member of the Chilean Chapter of the American Institute of Chemical Engineers, AIChE. 2012.
+- Volunteer Girls in Tech Chile: Diffusion and events support for Chilean Chapter of Girls in Tech, a non-profit organization that promotes women in STEM careers.
+- Organizational committee for International Plant Biology Course. November 2016.
+- Logo design for the Chilean Society of Plant Biologists. June 2016.
+- Member of the Chilean Chapter of the American Institute of Chemical Engineers, AIChE. 2012.
