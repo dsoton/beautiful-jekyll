@@ -105,8 +105,8 @@ google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.cl/citations?user="
   icon: "fa-book"
-  
- medium:
+
+medium:
   name: "Medium"
   baseURL: "https://medium.com/"
   icon: "fa-medium"
