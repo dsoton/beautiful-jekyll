@@ -1,20 +1,17 @@
-## Daniela C. Soto
+# Daniela C. Soto
 dcsoto[at]ucdavis[dot]edu
 
-### Education
+## Education
 
-**Ph.D.** University of California Davis (2017-present)
-- Integrative Genetics and Genomics Graduate Group
+**Ph.D.** University of California Davis, Integrative Genetics and Genomics Graduate Group (2017-present)
 
-**M.Sc.Eng.** Pontificia Universidad Católica de Chile (2012-2015)
-- Specialization in Chemistry and Bioprocess Engineering 
+**M.Sc.Eng.** Pontificia Universidad Católica de Chile, Chemistry and Bioprocess Engineering Specialization (2012-2015)
 
-**Biological Engineering** Pontificia Universidad Católica de Chile (2007-2015)
-- Specialization in Bioprocess
+**Biological Engineering** Pontificia Universidad Católica de Chile, Bioprocess Major (2007-2015)
 
 **B.Sc.Eng.** Pontificia Universidad Católica de Chile (2007-2012)
 
-### Research experience				
+## Research experience				
 
 **Bioinformatics Support** Plant Systems Biology Lab, Pontificia Universidad Católica de Chile (2015-2017)
 -	Handling and analyzing next-generation sequencing data using high performance computing. Performing functional analysis of RNA-seq data from endemic Atacama plants and DNA metabarcoding. Experience in Unix environments. Programming in R, Python and Matlab.	
@@ -25,21 +22,21 @@ dcsoto[at]ucdavis[dot]edu
 **Part-Time Researcher** Biofiltro SPA (2013)
 -	Improvement of the performance of an earthworm-based wastewater filter by mounting a pilot plant and analyzing obtained data using mathematical modeling and data mining techniques.
 
-### Teaching experience
+## Teaching experience
 
 **Teaching Assistant** Pontificia Universidad Católica de Chile  
 - Mathematics Applied to Process Engineering (Fall 2013)
 - Biopolymers (Spring 2012-2013)
 - Microbial Biotechnology (Fall 2012)
 
-### Fellowships, grants and awards
+## Fellowships, grants and awards
 
 -	CONICYT Fellowship for Ph.D. studies (2017)
 -	Fulbright Grantee for Ph.D. studies	(2016)
 -	Best oral presentation, XI Chilean Plant Biology Meeting (2016)                     
 -	Chile's National Commission for Scientific and Technological Research Scholarship for MSc studies in Chile (2014)
  
-### Publications
+## Publications
 
 Contreras-López, Orlando, Tomás C. Moyano, Daniela C. Soto, and Rodrigo A. Gutiérrez. 2018. “Step-by-Step Construction of Gene Co-Expression Networks from High-Throughput Arabidopsis RNA Sequencing Data.” In Root Development, 275–301. Methods in Molecular Biology. Humana Press, New York, NY.
 
@@ -47,7 +44,7 @@ Vidal, Elena A., Tomas C. Moyano, Bernabe I. Bustos, Eduardo Perez-Palma, Carol 
 
 Sánchez, Benjamín J., Daniela C. Soto, Héctor Jorquera, Claudio A. Gelmi, and José R. Pérez-Correa. 2014. “HIPPO: An Iterative Reparametrization Method for Identification and Calibration of Dynamic Bioreactor Models of Complex Processes.” Industrial & Engineering Chemistry Research 53 (48). American Chemical Society: 18514–25.
 
-### Conferences
+## Conferences
 
 Soto D., Varala K., Araus V., Carrasco-Puga G., Díaz F., Nilo-Poyanco R., Coruzzi G., Gutiérrez R. Metatranscriptomic approach reveals conserved adaptive processes in Atacama Desert plants. XI Chilean Plant Biology Meeting, Chillán, Chile. November, 2016. (Talk)
 
@@ -59,7 +56,7 @@ Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties 
 
 Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties and biological response in tyrosine-derived polyarylates explored by association rules. XXVI Annual Conference of the European European Society for Biomaterials. Liverpool, United Kingdom. August, 2014. (Poster)
 
-### Courses and seminars	
+## Courses and seminars	
 
 **Big Data for the Public Good** April 12-15, 2018  
 Fulbright Enrichment Seminar, Philadelphia, PA. 
@@ -67,7 +64,7 @@ Fulbright Enrichment Seminar, Philadelphia, PA.
 **Structural Bioinformatics and Drug Design Summer School** Jan 20-24, 2014  
 Pontificia Universidad Católica de Chile. Santiago, Chile. 	
 
-### Skills and qualifications
+## Skills and qualifications
 
 - Programming languages: R, Python, MATLAB®
 - Scripting & Query Languages: Bash, SQL
@@ -76,7 +73,7 @@ Pontificia Universidad Católica de Chile. Santiago, Chile.
 - Graphic design software: Adobe Illustrator
 - Language skills: Spanish (native language), English (fluent)
 
-### Community service and other
+## Community service and other
 
 - Volunteer Girls in Tech Chile: Diffusion and events support for Chilean Chapter of Girls in Tech, a non-profit organization that promotes women in STEM careers.
 - Organizational committee for International Plant Biology Course. November 2016.
