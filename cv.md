@@ -1,5 +1,3 @@
-# Daniela C. Soto
-
 ## Education
 
 **Ph.D.** University of California Davis, Integrative Genetics and Genomics Graduate Group (2017-present)
