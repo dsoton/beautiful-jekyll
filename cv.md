@@ -28,10 +28,10 @@ Research and Development Department, Biofiltro SPA
 
 ### Teaching experience
 
-Teaching Assistant Pontificia Universidad Católica de Chile
-▪	Mathematics Applied to Process Engineering (Fall 2013)
-▪	Biopolymers (Spring 2012-2013)
-▪	Microbial Biotechnology (Fall 2012)
+**Teaching Assistant** Pontificia Universidad Católica de Chile
+Mathematics Applied to Process Engineering (Fall 2013)
+Biopolymers (Spring 2012-2013)
+Microbial Biotechnology (Fall 2012)
 
 ### Fellowships, grants and awards
 
@@ -62,9 +62,10 @@ Daniela C. Soto, Loreto M. Valenzuela. Relationship between physical properties 
 
 ### Courses and seminars	
 
-- Big Data for the Public Good. April 12-15, 2018
+**Big Data for the Public Good** April 12-15, 2018
 Fulbright Enrichment Seminar, Philadelphia, PA. 
-- Structural Bioinformatics and Drug Design Summer School. Jan 20-24, 2014
+
+**Structural Bioinformatics and Drug Design Summer School** Jan 20-24, 2014
 Pontificia Universidad Católica de Chile. Santiago, Chile. 	
 
 ### Skills and qualifications
