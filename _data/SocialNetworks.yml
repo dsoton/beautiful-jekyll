@@ -108,5 +108,5 @@ google-scholar:
 
 medium:
   name: "Medium"
-  baseURL: "https://medium.com/"
+  baseURL: "https://medium.com/@"
   icon: "fa-medium"
