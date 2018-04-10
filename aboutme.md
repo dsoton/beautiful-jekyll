@@ -5,4 +5,4 @@ title: About me
 
 I am an engineer and computational biologist, interested in understanding the effect of genetic variation in human traits and disease, using mathematics, statistics, machine learning, and bioinformatics. Currently, I am studying a Ph.D. at UC Davis. I am an advocate for women in STEM.
 
-
+This is my personal website in which I share my research in bioinformatics and genomic data science, as well as my side projects in computational biology training, science outreach and #WomenInStem.
