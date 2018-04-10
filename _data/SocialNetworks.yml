@@ -104,4 +104,9 @@ behance:
 google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.cl/citations?user="
-  icon: "fa-google-scholar"
+  icon: "fa-book"
+  
+ medium:
+  name: "Medium"
+  baseURL: "https://medium.com/"
+  icon: "fa-medium"
