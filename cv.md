@@ -1,10 +1,13 @@
 ## Education
 
-**Ph.D.** University of California Davis, Integrative Genetics and Genomics Graduate Group (2017-present)
+**Ph.D.** University of California Davis (2017-present)  
+Integrative Genetics and Genomics Graduate Group 
 
-**M.Sc.Eng.** Pontificia Universidad Católica de Chile, Chemistry and Bioprocess Engineering Specialization (2012-2015)
+**M.Sc.Eng.** Pontificia Universidad Católica de Chile (2012-2015)  
+Chemistry and Bioprocess Engineering Specialization 
 
-**Biological Engineering** Pontificia Universidad Católica de Chile, Bioprocess Major (2007-2015)
+**Biological Engineering** Pontificia Universidad Católica de Chile (2007-2015)  
+Bioprocess Specialization 
 
 **B.Sc.Eng.** Pontificia Universidad Católica de Chile (2007-2012)
 
@@ -32,7 +35,7 @@
 -	Fulbright Grantee for Ph.D. studies	(2016)
 -	Best oral presentation, XI Chilean Plant Biology Meeting (2016)                     
 -	Chile's National Commission for Scientific and Technological Research Scholarship for MSc studies in Chile (2014)
- 
+
 ## Publications
 
 Contreras-López, Orlando, Tomás C. Moyano, Daniela C. Soto, and Rodrigo A. Gutiérrez. 2018. “Step-by-Step Construction of Gene Co-Expression Networks from High-Throughput Arabidopsis RNA Sequencing Data.” In Root Development, 275–301. Methods in Molecular Biology. Humana Press, New York, NY.
