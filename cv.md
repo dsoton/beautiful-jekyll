@@ -1,5 +1,4 @@
 # Daniela C. Soto
-dcsoto[at]ucdavis[dot]edu
 
 ## Education
 
