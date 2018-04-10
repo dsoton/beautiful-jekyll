@@ -3,10 +3,12 @@ dcsoto[at]ucdavis[dot]edu
 
 ### Education
 	
+| - | - | 
 | **Ph.D. University of California Davis** <br> Integrative Genetics and Genomics Graduate Group | 2017-present |
 | **M.Sc.Eng. Pontificia Universidad Católica de Chile** <br> Specialization in Chemistry and Bioprocess Engineering | 2012-2015 |
 | **Biological Engineering Pontificia Universidad Católica de Chile** <br> Specialization in Bioprocess | 2007-2015 |
 | **B.Sc.Eng. Pontificia Universidad Católica de Chile** | 2007-2012 |
+| - | - |
 
 ### Research experience				
 
