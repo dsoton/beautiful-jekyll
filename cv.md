@@ -43,7 +43,9 @@ Teaching Assistant Pontificia Universidad Católica de Chile
 ### Publications
 
 Contreras-López, Orlando, Tomás C. Moyano, Daniela C. Soto, and Rodrigo A. Gutiérrez. 2018. “Step-by-Step Construction of Gene Co-Expression Networks from High-Throughput Arabidopsis RNA Sequencing Data.” In Root Development, 275–301. Methods in Molecular Biology. Humana Press, New York, NY.
+
 Vidal, Elena A., Tomas C. Moyano, Bernabe I. Bustos, Eduardo Perez-Palma, Carol Moraga, Alejandro Montecinos, Lorena Azocar, Daniela C. Soto, et al. 2018. “Whole Genome Sequence of Mapuche-Huilliche Native Americans.” bioRxiv. https://doi.org/10.1101/252619.
+
 Sánchez, Benjamín J., Daniela C. Soto, Héctor Jorquera, Claudio A. Gelmi, and José R. Pérez-Correa. 2014. “HIPPO: An Iterative Reparametrization Method for Identification and Calibration of Dynamic Bioreactor Models of Complex Processes.” Industrial & Engineering Chemistry Research 53 (48). American Chemical Society: 18514–25.
 
 ### Conferences
