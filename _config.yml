@@ -17,7 +17,7 @@ baseurl: ""
 title: Daniela C. Soto
 
 # Short description of your site
-# description: This is my personal website :)
+description: This is my personal website :)
 
 # --- Navigation bar options --- #
 
@@ -36,7 +36,7 @@ avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/avatar.jpg"
 
 # --- Background colour/image options --- #
 
