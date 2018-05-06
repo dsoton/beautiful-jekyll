@@ -19,7 +19,7 @@ title: CV
 
 ## Research experience				
 
-**Gradute Student Researcher** Dennis Lab, University of California Davis
+**Graduate Student Researcher** Dennis Lab, University of California Davis (2018-present)
 - Development of new bioinformatics tools to leverage second and third generation sequencing data to elucidate genomic variability and interlocus gene conversion in human-specific segmental duplications. 
 
 **Bioinformatics Support** Plant Systems Biology Lab, Pontificia Universidad Católica de Chile (2015-2017)
