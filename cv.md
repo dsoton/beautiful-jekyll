@@ -6,26 +6,30 @@ title: CV
 ## Education
 
 **Ph.D.** University of California Davis (2017-present)  
-Integrative Genetics and Genomics Graduate Group 
+- Integrative Genetics and Genomics
+- Advisor: Megan Dennis
 
 **M.Sc.Eng.** Pontificia Universidad Católica de Chile (2012-2015)  
-Chemistry and Bioprocess Engineering Specialization 
+- Specialization in Chemistry and Bioprocess Engineering
 
 **Biological Engineering** Pontificia Universidad Católica de Chile (2007-2015)  
-Bioprocess Specialization 
+- Specialization in Bioprocess
 
 **B.Sc.Eng.** Pontificia Universidad Católica de Chile (2007-2012)
 
 ## Research experience				
 
+**Gradute Student Researcher** Dennis Lab, University of California Davis
+- Development of new bioinformatics tools to leverage second and third generation sequencing data to elucidate genomic variability and interlocus gene conversion in human-specific segmental duplications. 
+
 **Bioinformatics Support** Plant Systems Biology Lab, Pontificia Universidad Católica de Chile (2015-2017)
--	Handling and analyzing next-generation sequencing data using high performance computing. Performing functional analysis of RNA-seq data from endemic Atacama plants and DNA metabarcoding. Experience in Unix environments. Programming in R, Python and Matlab.	
+-	Handling and analyzing of second-generation sequencing data using high performance computing. Performing functional analysis of RNA-seq data from endemic Atacama plants and DNA metabarcoding. 	
 
 **Research Assistant** Pontificia Universidad Católica de Chile (2012-2014)
--	Processing and analyzing of biomedical polymers.
+-	Studying degradation profile of biomedical polymers, as well as laboratory management duties.
 
 **Part-Time Researcher** Biofiltro SPA (2013)
--	Improvement of the performance of an earthworm-based wastewater filter by mounting a pilot plant and analyzing obtained data using mathematical modeling and data mining techniques.
+-	Improvement of the performance of an earthworm-based wastewater filter by mounting a pilot plant and analyzing obtained data using mathematical modeling and machine learning. 
 
 ## Teaching experience
 
@@ -71,16 +75,17 @@ Pontificia Universidad Católica de Chile. Santiago, Chile.
 
 ## Skills and qualifications
 
-- Programming languages: R, Python, MATLAB®
+- Programming languages: R, Python, MATLAB
 - Scripting & Query Languages: Bash, SQL
-- Markup languages: Markdown
+- Markup languages: Markdown, LaTeX
 - Version control system: Git
 - Graphic design software: Adobe Illustrator
 - Language skills: Spanish (native language), English (fluent)
 
 ## Community service and other
 
-- Volunteer Girls in Tech Chile: Diffusion and events support for Chilean Chapter of Girls in Tech, a non-profit organization that promotes women in STEM careers.
+- Volunteer Young Scientist Program UC Davis: leading interactive experiments to enhance K-12 science education.
+- Volunteer Girls in Tech Chile: Supporting and organizing events for Chilean Chapter of Girls in Tech, a non-profit organization that promotes science and technology as a career for girls. 
 - Organizational committee for International Plant Biology Course. November 2016.
 - Logo design for the Chilean Society of Plant Biologists. June 2016.
 - Member of the Chilean Chapter of the American Institute of Chemical Engineers, AIChE. 2012.
