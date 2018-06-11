@@ -3,6 +3,12 @@ layout: page
 title: About me
 ---
 
-I am an engineer and computational biologist, interested in understanding the effect of genetic variation in human traits and disease, using mathematics, statistics, machine learning, and bioinformatics. Currently, I am studying a Ph.D. at UC Davis. I am an advocate for women in STEM.
+Hi
 
-This is my personal website in which I share my research in bioinformatics and genomic data science, as well as my side projects in computational biology training, science outreach and #WomenInStem.
+This is Dani. 
+
+Engineer, computational biologist and bioinformatician. I am currently studying a PhD at UC Davis in the [Dennis Lab](https://www.dennislab.org/). 
+
+I am also a musician (guitar, ukulele, mandolin, charango, voice, production), once-a-week salsa and bachata dancer, sometimes digital and watercolor background artist, ocassionally lettering and logo designer, soon-to-be photographer (I'm learning, ok!) and "cartoonist" (does make cartoons of your lab count?). I love to read. And, in case you are wondering, I am either Revenclaw or Hufflepuff (I receive contradictory results in any test that I have tried. If you know a good and reliable one, please contact me by Twitter!). 
+
+This is my personal website in which I share my research in bioinformatics and genomic data science.
