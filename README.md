@@ -1,1 +1,1 @@
-This is my personal website, available at: https://dcsoto.github.io/, in which I share my research in bioinformatics and genomic data science, as well as my side projects in computational biology training, science outreach and #WomenInStem.
+This is my personal website, available at: https://dcsoto.github.io/. 
