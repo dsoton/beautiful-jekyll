@@ -2,7 +2,7 @@
 layout: post
 title: My basic toolbox for bioinformatics 
 tags: [training, bioinformatics, compbio]
-permalink: /2015/06/24/bioinformatics-toolbox/
+permalink: /2018/07/06/bioinformatics-toolbox/
 ---
 
 Nowadays, almost any scientific endeavor relies on computers to process and analyze data. Even if you are working mostly on the bench, you can really benefit from running your own computational pipelines to process and analyze your data.
