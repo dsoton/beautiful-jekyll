@@ -110,7 +110,7 @@ TL;DR version: I recommend that you use Atom to explore files, create cheat shee
 - Who are you?
     - Hi, I am Daniela, engineer, computational biologist and bioinformatician (yeah, I like labels). I am part of the Genetics and Genomics PhD program at UC Davis and part of the [Dennis Lab](https://www.dennislab.org/). I work with second and third generation sequencing data identifying the variability landscape of human-specific segmental duplications to investigate their role in human evolution and disease. 
 - Why did you write this and why should I believe you?    
-    - I like to make lists and documentstion for myself, but I thought that it might also be helpful for friends. So I added more explanations. Why should you believe me? Don't! Try this tools and see what works for you. 
+    - I like to make lists and documentation for myself, but I thought that it might also be helpful for friends. So I added more explanations. Why should you believe me? Don't! Try this tools and see what works for you. 
 
 ---
 Comments or suggestions? <i class="fa fa-twitter"></i> [@**dcsoto_cl**](https://twitter.com/dcsoto_cl)
