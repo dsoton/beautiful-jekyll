@@ -5,33 +5,31 @@ tags: [training, bioinformatics, compbio]
 permalink: /2015/06/24/bioinformatics-toolbox/
 ---
 
-# My basic toolbox for Bioinformatics and #CompBio 
-
 Nowadays, almost any scientific endeavor relies on computers to process and analyze data. Even if you are working mostly on the bench, you can really benefit from running your own computational pipelines to process and analyze your data.
 
-I've compiled a very personal selection of my favorites computational tools to perform common tasks associated with data analysis and/or methods development as a computational biologist and bioinformatician. I thought this could be helpful for someone that is starting in this world, so I wrote a blog post. 
+I've compiled a very personal selection of my favorites computational tools to perform common tasks associated with data analysis and/or methods development as a computational biologist and bioinformatician. I thought this could be helpful for someone that is starting in this world, so I wrote a blog post!
 
-A brief disclaimer: This is what has worked for me until now, but I am always _scaveging_ for new tools. (So I'll be happy to receive your recommendations!)
+A brief disclaimer: This is what has worked for me until now, but I am always _scaveging_ for new tools. (So I'll be happy to receive your recommendations. Let me know in my [Twitter](https://twitter.com/dcsoto_cl) account.)
 
 ## Dealing with text files
-Working with some sort of text file is at least 50% of my job. Most of your input files will be some sort of text file. To properly work with them, you need a good text editor (==don't use your PC or Macbook default apps if you don't want to have hidden characters ruining your life==). Text editors not only allow you (1) to check a file's content, but also (2) to generate documentation, like markdown notebooks, readmes, and log files, or (3) to code in any language (I will cover these topics in next sections).
+Working with some sort of text file is at least 50% of my job. Most of your input files will be some sort of text file. To properly work with them, you need a good text editor (_don't use your PC or Macbook default apps if you don't want to have hidden characters ruining your life_). Text editors not only allow you (1) to check a file's content, but also (2) to generate documentation, like markdown notebooks, readmes, and log files, or (3) to code in any language (I will cover these topics in next sections).
 
-- **Personal winner:** [Atom](https://atom.io/) (Windows/Mac/Linux). My go-to for text editing is Atom. It's easy to use, super customizable and can handle highlighting for several languages, you just have to add the proper extension to the file. It also accepts markdow syntax. To do this, just create a file with "md" extension and press CTRL+SHFT+M. This is my current favorite tool, so I will talk more about it in the following sections.
+- **Personal winner:** [Atom](https://atom.io/) (Windows/Mac/Linux). My go-to for text editing is Atom. It's easy to use, super customizable and can handle highlighting for several languages, you just have to add the proper extension to the file. It also accepts Markdown syntax. To do this, just create a file with ".md" extension and press CTRL+SHFT+M. This is my current favorite tool, so I will talk more about it in the following sections.
 - **Other options**: [Sublime](https://www.sublimetext.com/) (Windows/Mac/Linux), [Notepad++](https://notepad-plus-plus.org/) (Windows). 
 
 ## Setting a lab notebook
 Just because you are not on the bench, it doesn't mean that you shouldn't document every step of your work. So before doing anything, set up your computational lab notebook. The most basic way to document your work is to use just a Google Docs file (sometimes it's the easiest way). However, what's in trend now is to use some sort of interactive notebook that combines text, code execution, plots, and more. Do you code in Python? [Jupyter Notebooks](https://jupyter.org). Do you code in R? [Rmarkdown in RStudio](https://rmarkdown.rstudio.com/). Do you use Bash scripting, R, Python, AWK, C/C++, Perl or anything that suits your data analysis? Well... that's me.
 
-- **Personal winner:** Just a simple basic markdown editor , like Hackmd.io (if I need to work online) or [Atom](https://atom.io/) (Mac/Windows) (press CTRL+SHFT+M for markdown capabilities), does the work for me. Sometimes I document my pipeline directly in GitHub using Markdown, which I will explain in the version control section. (Markdown, btw, is a light markup language that allows you formatting what you are typing using some "commands" embedded in the text). 
+- **Personal winner:** Just a simple basic markdown editor, like Hackmd.io (if I need to work online) or [Atom](https://atom.io/) (Mac/Windows) (press CTRL+SHFT+M for Markdown capabilities), does the work for me. Sometimes I document my pipeline directly in GitHub using Markdown, which I will explain in the version control section. (Markdown, btw, is a light markup language that allows you formatting what you are typing using some "code" embedded in the text). 
 - **Other options:** As I mentioned before, you can use a Google Docs or Microsoft Word document, or even a plain text file to document your pipeline step by step. Interactive notebooks are another more sophisticated alternative. Here some comments about these:
     - _When to use an interactive notebook?_ (1) If you are working mostly in Python ([Jupyter Notebooks](https://jupyter.org)) or mostly on R ([Rmarkdown](https://rmarkdown.rstudio.com/)), (2) if you are doing mostly data analysis, i.e., generating tables, plotting, doing some statistics, or (3) if you want to run code directly on your notebook (because... why not?).
-    - _When not to use interactive notebooks?_ (1) If you don't need an interactive notebook, or (2) if you are using several programming languages, scheduling things to run on the cluster, saving pictures, links and useful data inside your notebook, writing down hints and hacks, etc. I am more into this last description, so ==what I do is to keep a main markdown file and use interactive notebooks for certain data analysis steps that I later reference in my main notebook==. 
+    - _When not to use interactive notebooks?_ (1) If you don't need an interactive notebook, or (2) if you are using several programming languages, scheduling things to run on the cluster, saving pictures, links and useful data inside your notebook, writing down hints and hacks, etc. I am more into this last description, so _what I do is to keep a main markdown file and use interactive notebooks for certain data analysis steps that I later reference in my main notebook_. 
 
 ## Coding
 
 Let's go into coding. Even if you are not a method developer, and you are running pipelines or analyzing your own data, chances are that you will have to use somebody else's code or code your own scripts. 
 
-_Warning:_ You don't need to reinvent the wheel. A lot of software and packages are available out there to do every kind of tasks. You just have to use them wisely, and have some understanding about the algorithm or strategy behind them.
+_Warning:_ You don't need to reinvent the wheel. A lot of software and packages are available out there to do every kind of tasks. You just have to use them wisely, and have some rough understanding about the algorithm or strategy behind them.
 
 ### How to learn a new programming language
 
@@ -58,8 +56,8 @@ Here a short description of my personal favorites:
     - Pandas: provides data structures and data analysis tools that resemble a lot R features. So, if you like R, then it would easy for you to use Pandas in Python. 
     - Matplotlib: is a 2D plotting library that creates high quality (i.e. publication ready) pictures. This is a must for plotting in Python. Commonly, people use the set of commands in `matplotlib.pyplot`, which generates plots using MATLAB syntax.
     - Seaborn: is another 2D plotting package, based on matplotlib, that adds a ggplot2-ish aesthetics to your graphs. 
-- **C/C++**: If you feel like learning another programming language, my personal recommendation would be to learn a lower level programming language like C/C++. Its main advantage is speed for sure.
-- **Other options:** In engineering school they _love_ MATLAB for some reason (maybe they really like to spend a lot of money in paid software?), so this was my first fluent programming language. I recognize that it's very powerful for some tasks and it has a good community of users and packages through MATLAB Central. However, it's way too expensive for me, and I am into open software and open science stuff. Other option is Julia, a high-level and high-performance programming language for scientific computing. This can be an interesting option if you are running computationally intensive code and you don't feel like using C/C++ because it is too "low-level" for you. However, if you are not a method developer usually performance is not an issue you need to worry about.
+- **C/C++**: If you feel like learning another programming language, my personal recommendation would be to learn a lower level programming language like C++. Its main advantage is speed for sure.
+- **Other options:** In engineering school they _love_ MATLAB for some reason (maybe they really like to spend a lot of money in paid software?), so this was my first fluent programming language. I recognize that it's very powerful for some tasks and it has a good community of users and packages through MATLAB Central. However, it's way too expensive for me, and I am into open software and open science stuff. Other option is Julia, a high-level and high-performance programming language for scientific computing. This can be an interesting option if you are running computationally intensive code and you don't feel like using C/C++ because it is too "low-level" for you. However, if you are not a method developer usually performance is not an issue you need to worry about that much.
 
 ### Where to code
 
@@ -83,9 +81,9 @@ This is the **key** step that you have to follow to be a happy and healthy progr
 
 What version control systems are available? Most popular ones are [git](http://git-scm.com/) and [svn](http://subversion.apache.org/), although lately git is taking over the market. 
 
-Most populat web-based hosting services for version control based on git are GitHub (recently acquired by Microssoft), GitLab (the only open source), and bitbucket (mostly directed to companies).
+Most populat web-based hosting services for version control based on git are [GitHub](https://github.com/) (recently acquired by Microssoft), [GitLab](https://about.gitlab.com/) (the only open source), and [Bitbucket](https://bitbucket.org/) (mostly directed to companies).
 
-- **Personal favorite:** I use git and github. Actually our lab obtained an educational account for free that works perfectly. We created a project for every folder and created Mardown files to write down all our pipelines (yes, GitHub renders Markdown!). Lately, I have been using mostly the GitHub account as a lab notebook (because that way my PI can see that I'm working, lol). Great option for every lab that does any kind of computational analysis. 
+- **Personal favorite:** I use Git and GitHub. Actually our lab obtained an [educational account](https://education.github.com/) for free that works perfectly. We created a private repository for every project and created Markdown files to write down all our pipelines (GitHub renders Markdown). Lately, I have been using mostly the GitHub account as a lab notebook (because that way my PI can see that I'm working, lol). Great option for every lab that does any kind of computational analysis. 
 
 ### The infalible weapon for debugging
 
@@ -100,25 +98,20 @@ Infallible.
 There is one practice in science (specially in biology) that is key for successful research. Me and some friends call it ==_coloromics_==. Coloromics is the fine art of showing your data in an effective, efficient, compelling and aestetically pleasing way to your audience or readers. Good coloromics can make your research succeed, and conversely, bad coloromics can make your research go unnoticed. So, it is highly recommended to develop some skills to make nice plots that effectively convey the information that you want to share.
 
 - **Personal winner:** My go-to is a combination between `ggplot2` R package and Adobe Illustrator to handle vector drawing. Actually, I really love the latter, but this is because I really like graphic design and digital illustration. That might not be your case, and that is totally fine. 
-- **Other options:** Python has some good libraries to make nice plots too. The most common package for that is `matplotlib.pyplot`. About dealing with images and vector graphics, there are other software available besides Adobe CC. To the best of my knowledge, the best free open-source competitor of Adobe Photoshop is Gimp and the best Adobe Illustrator competitor is Inkscape. Both available for Mac, Windows and Linux. Personally, I should be using these tools and supporting free software, but I really really really love Adobe Illustrator. Other options is just to use Excel (but I guess that if you are reading this is probably because you don't want to use Excel anymore).
-- **Bonus tip**: If you are dealing with color issues (i.e. bad taste for colors), you can use online color palette builders, for example, [Adobe Color CC](https://color.adobe.com/). You can find different visually pretty combinations and save the HEX or RGB code to use it later in R or other softwares. 
-
-## Dealing with references
-This is totally off-topic, but it is so important that it needed a section. My main recommendation here is to use the reference manager that suits your working style and that you can rely on (there is nothing more frustrated than dealing with messy references... everyone has been there at least once, right?).
-
-- **Personal Winner:** [Paperpile](https://paperpile.com). This is probably the simplest citation manager our there, but it does the job and I trust it (also, I like underdogs). It lacks some important features, like a Microsoft Word plugin (they are working on it), it works only in Chrome (I'm sorry, Firefox), but adding  references from websites with accurate metadata is very easy. It's not free, but very cheap (again, I like to support the underdogs). 
-- **Other options:** I would say that the most popular citations managers nowadays are [Endnote](http://endnote.com/) (not free, usually provided by universities) and [Mendeley](https://www.mendeley.com/) (free). Good reasons to use Endnote? Your PI is probably using it. Good reasons to use Mendeley? It's free, it has a lot of features, and it has some sort of social network (but who needs more social networks?)
+- **Other options:** Python has some good libraries to make nice plots too. The most common package for that is `matplotlib.pyplot`. A friend recently introduced me to `seaborn` which is actually very good. About dealing with images and vector graphics, there are other software available besides Adobe CC. To the best of my knowledge, the best free open-source competitor of Adobe Photoshop is Gimp and the best Adobe Illustrator competitor is Inkscape. Both available for Mac, Windows and Linux. I think I should be using these tools and supporting free software, but I really really really love Adobe Illustrator. Other options is just to use Excel (but if you are reading this, it is probably because you don't want to use Excel anymore).
+- **Bonus tip**: If you are dealing with color issues (i.e. bad taste for colors), you can use online color palette builders, for example, [Adobe Color CC](https://color.adobe.com/) or [Coolors](https://coolors.co/). You can find different visually pretty combinations and save the HEX or RGB code to use it later in R or other softwares. 
 
 ## Concluding remarks
 
-TL;DR version: I recommend that you use Atom to check fastq or fasta files and to create cheat sheets for your preferred programming languages, create a markdown document to use as a lab notebook to write **everything** that you did in your analysis, learn some shell scripting and R or Python (or a little bit of both), if you want to code in R use R studio, if you want to code in Python use Jupyter, use GitHub to version control your code (your future self will thank you), and if your code doesn't work, explain it line by line to a friend and you'll find the issue.
+TL;DR version: I recommend that you use Atom to explore files, create cheat sheets for your preferred programming languages, create a markdown document to use as a lab notebook to write **everything** that you did in your analysis, learn some shell scripting and R or Python (or a little bit of both), if you want to code in R use R studio, if you want to code in Python use Jupyter, use GitHub to version control your code (your future self will thank you), and if your code doesn't work, explain it line by line to a friend and you'll solve all your problems.
 
 ## FAQ
 
-- Who are you, why did you write this and why should I believe you?
-    - Hi, I am Daniela, engineer, computational biologist and bioinformatician (yeah, I like to use several labels). I am part of the Genetics and Genomics PhD program at UC Davis and part of the [Dennis Lab](https://www.dennislab.org/). I work with second and third generation sequencing data identifying the variability landscape of human-specific segmental duplications to investigate their role in human evolution and disease. I like to make lists, so I did this one for me, and I thought that it might also be helpful for some friends. So I added more explanations. Why should you believe me? Don't! 
+- Who are you?
+    - Hi, I am Daniela, engineer, computational biologist and bioinformatician (yeah, I like labels). I am part of the Genetics and Genomics PhD program at UC Davis and part of the [Dennis Lab](https://www.dennislab.org/). I work with second and third generation sequencing data identifying the variability landscape of human-specific segmental duplications to investigate their role in human evolution and disease. 
+- Why did you write this and why should I believe you?    
+    - I like to make lists and documentstion for myself, but I thought that it might also be helpful for friends. So I added more explanations. Why should you believe me? Don't! Try this tools and see what works for you. 
 
 ---
-
 Comments or suggestions? <i class="fa fa-twitter"></i> [@**dcsoto_cl**](https://twitter.com/dcsoto_cl)
 
