@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My basic toolbox for bioinformatics 
+title: My essential toolbox for bioinformatics 
 tags: [training, bioinformatics, compbio]
 permalink: /2018/07/06/bioinformatics-toolbox/
 ---
