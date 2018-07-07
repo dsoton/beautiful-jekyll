@@ -77,7 +77,7 @@ What tool to choose? It really depends on what you are doing and your personal p
   
 ### The magic of version control
 
-This is the **key** step that you have to follow to be a happy and healthy programmer. Version control is a systems that records changes that make to your code or other kind of files, and allows you to go back to any previous version. They also allow you to have "paralel universes" with different approaches to your code (which are known as branches). It might not seem very important for you at this point, but **it is important**.It's very likely that your are going to mess your code, believe me. Nowadays, web-based hosting services for version control systems allow to work collaboratevily in a smooth way. 
+This is the **key** step that you have to follow to be a happy and healthy programmer. Version control is a system that records changes that make to your code or other kind of files, and allows you to go back to any previous version. They also allow you to have "paralel universes" with different approaches to your code (which are known as branches). It might not seem very important for you at this point, but **it is important**. It's very likely that your are going to mess your code, believe me. Also, web-based hosting services for version control systems allow to work collaboratevily in a smooth way. 
 
 What version control systems are available? Most popular ones are [git](http://git-scm.com/) and [svn](http://subversion.apache.org/), although lately git is taking over the market. 
 
@@ -85,7 +85,7 @@ Most populat web-based hosting services for version control based on git are [Gi
 
 - **Personal favorite:** I use Git and GitHub. Actually our lab obtained an [educational account](https://education.github.com/) for free that works perfectly. We created a private repository for every project and created Markdown files to write down all our pipelines (GitHub renders Markdown). Lately, I have been using mostly the GitHub account as a lab notebook (because that way my PI can see that I'm working, lol). Great option for every lab that does any kind of computational analysis. 
 
-### The infalible weapon for debugging
+### The infallible weapon for debugging
 
 If you are running pipelines or coding, most of your time will be spent debugging and troubleshooting. **That's a fact.** I feel the social responsability as a colleague to share the most sophisticated tool ever created for this tiresome task: [Rubber Ducking Debugging](https://rubberduckdebugging.com/). Refer to the linked website for a detailed explanation. But, in one sentence: 
 
@@ -95,7 +95,7 @@ Infallible.
 
 ## Drawing figures
 
-There is one practice in science (specially in biology) that is key for successful research. Me and some friends call it ==_coloromics_==. Coloromics is the fine art of showing your data in an effective, efficient, compelling and aestetically pleasing way to your audience or readers. Good coloromics can make your research succeed, and conversely, bad coloromics can make your research go unnoticed. So, it is highly recommended to develop some skills to make nice plots that effectively convey the information that you want to share.
+There is one practice in science (specially in biology) that is key for successful research. Me and some friends call it _coloromics_. Coloromics is the fine art of showing your data in an effective, efficient, compelling and aestetically pleasing way to your audience or readers. Good coloromics can make your research succeed, and conversely, bad coloromics can make your research go unnoticed. So, it is highly recommended to develop some skills to make nice plots that effectively convey the information that you want to share.
 
 - **Personal winner:** My go-to is a combination between `ggplot2` R package and Adobe Illustrator to handle vector drawing. Actually, I really love the latter, but this is because I really like graphic design and digital illustration. That might not be your case, and that is totally fine. 
 - **Other options:** Python has some good libraries to make nice plots too. The most common package for that is `matplotlib.pyplot`. A friend recently introduced me to `seaborn` which is actually very good. About dealing with images and vector graphics, there are other software available besides Adobe CC. To the best of my knowledge, the best free open-source competitor of Adobe Photoshop is Gimp and the best Adobe Illustrator competitor is Inkscape. Both available for Mac, Windows and Linux. I think I should be using these tools and supporting free software, but I really really really love Adobe Illustrator. Other options is just to use Excel (but if you are reading this, it is probably because you don't want to use Excel anymore).
