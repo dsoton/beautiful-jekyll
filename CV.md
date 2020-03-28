@@ -6,17 +6,17 @@ title: CV
 # Daniela C. Soto, Ph.D.(c)
 
 dcsoto [at] ucdavis.edu <br/>
-github.com/dcsoto <br/>
-linkedin.com/in/dcsoto/ <br/>
+[github.com/dcsoto](https://github.com/dcsoto) <br/>
+[linkedin.com/in/dcsoto/](https://www.linkedin.com/in/dcsoto/) <br/>
 
 ## 1. Education
 
+**Ph.D Integrative Genetics and Genomics** <br/>
 University of California Davis <br/>
-Ph.D Integrative Genetics and Genomics <br/>
 2017 - present <br/>
 
+**M.Sc.Eng. Chemical and Bioprocess Engineering** <br/>
 Pontificia Universidad Católica de Chile <br/>
-M.Sc.Eng. Chemical and Bioprocess Engineering  <br/>
 2015 <br/>
 
 ## 2. Research experience
@@ -91,7 +91,7 @@ Microbial Biotechnology (Fall 2012) <br/>
 
 - Operating systems: Linux/Unix
 - Main programming languages: Python, R
-- Other programming languages: AWK, Julia, MATLAB(R)
+- Other programming languages: AWK, MATLAB
 - Other tools: Git, Snakemake, Markdown, LaTeX, HTML
 - Graphic design: Adobe Illustrator
 - Languages: Spanish (native), English (full professional proficiency)
