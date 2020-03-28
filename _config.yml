@@ -33,11 +33,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar.jpg"
+avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/avatar.jpg"
+# title-img:
 
 # --- Background colour/image options --- #
 
@@ -77,9 +77,9 @@ social-network-links:
   twitter: dcsoto_cl
   linkedin: dcsoto
   google-scholar: c7K5YbUAAAAJ&hl=en
-  medium: dcsoto_cl
-  instagram: dcsoto_cl
-  behance: dcsoto
+  #medium:
+  #instagram:
+  #behance:
 
 # Select which share links to show in posts
 share-links-active:
