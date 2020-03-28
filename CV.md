@@ -1,54 +1,55 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 ---
 
 # Daniela C. Soto, Ph.D.(c)
 
-dcsoto [at] ucdavis.edu
-github.com/dcsoto
-linkedin.com/in/dcsoto/
+dcsoto [at] ucdavis.edu <br/>
+github.com/dcsoto <br/>
+linkedin.com/in/dcsoto/ <br/>
 
 ## 1. Education
 
-University of California Davis
-Ph.D Integrative Genetics and Genomics
-2017 - present
+University of California Davis <br/>
+Ph.D Integrative Genetics and Genomics <br/>
+2017 - present <br/>
 
-Pontificia Universidad Católica de Chile
-M.Sc.Eng. Chemical and Bioprocess Engineering
-2015
+Pontificia Universidad Católica de Chile <br/>
+M.Sc.Eng. Chemical and Bioprocess Engineering  <br/>
+2015 <br/>
 
 ## 2. Research experience
 
-**Graduate student researcher**
-Dennis Lab, University of California Davis
-2017 - present
+**Graduate student researcher** <br/>
+Dennis Lab, University of California Davis <br/>
+2017 - present <br/>
 
-**Bioinformatics support**
-Plant Systems Biology Lab, Pontificia Universidad Católica de Chile
-2015-2017
+**Bioinformatics support** <br/>
+Plant Systems Biology Lab, Pontificia Universidad Católica de Chile <br/>
+2015-2017 <br/>
 
-**Research assistant**
-Fondecyt Project, Pontificia Universidad Católica de Chile
-2012-2014
+**Research assistant** <br/>
+Fondecyt Project, Pontificia Universidad Católica de Chile <br/>
+2012-2014 <br/>
 
-**Part-time researcher**
-Research and Development Department, Biofiltro SPA
-2013
+**Part-time researcher** <br/>
+Research and Development Department, Biofiltro SPA <br/>
+2013 <br/>
+
 
 ## 3. Teaching experience
 
-Teaching Assistant, University of California Davis
-GGG 201B Genomics (Winter 2019)
+**Teaching Assistant, University of California Davis** <br/>
+GGG 201B Genomics (Winter 2019) <br/>
 
-Teaching Assistant, Data Intensive Biology Summer Institute at UC Davis
-Analyzing High Throughput Sequencing Data Workshop (Summer 2018)
+**Teaching Assistant, Data Intensive Biology Summer Institute at UC Davis** <br/>
+Analyzing High Throughput Sequencing Data Workshop (Summer 2018) <br/>
 
-Teaching Assistant, Pontificia Universidad Católica de Chile
-- Mathematics Applied to Process Engineering (MATLAB laboratory)  (Fall 2013)
-- Biopolymers (Spring 2012-2013)
-- Microbial Biotechnology (Fall 2012)
+**Teaching Assistant, Pontificia Universidad Católica de Chile** <br/>
+Mathematics Applied to Process Engineering (MATLAB laboratory) (Fall 2013) <br/>
+Biopolymers (Spring 2012-2013) <br/>
+Microbial Biotechnology (Fall 2012) <br/>
 
 ## 4. Publications
 
@@ -71,15 +72,14 @@ Teaching Assistant, Pontificia Universidad Católica de Chile
 
 ## 5. Selected presentations
 
-### Talks
+### Selected talks
 
 * Daniela C. Soto, Aarthi Sekar, Gulhan Kaya, Ruta Sahasrabudhe, Lutz Froenicke, Megan Y. Dennis. Long-read sequencing to assay complex regions of the human genome . 5th Annual UC Davis Health Human Genomics Symposium. November 2019.
 * Soto D., Varala K., Araus V., Carrasco-Puga G., Díaz F., Nilo-Poyanco R., Coruzzi G., Gutiérrez R. Metatranscriptomic approach reveals conserved adaptive processes in Atacama Desert plants. XI Chilean Plant Biology Meeting, Chillán, Chile. November 2016. **Best oral presentation.**
 
-### Posters
+### Selected posters
 
 * Daniela C. Soto, Ruta Sahasrabudhe, Gulhan Kaya, Lutz Froenicke, Megan Y. Dennis. Whole-genome sequencing of CHM1 and CHM13 haploid human cell lines for variant discovery in complex genomic regions. ONT Community Meeting, San Francisco, CA. November 2018.
-
 
 ## 6. Fellowships and Awards
 
@@ -89,12 +89,12 @@ Teaching Assistant, Pontificia Universidad Católica de Chile
 
 ## 7. Skills and Qualifications
 
-Operating systems: Linux/Unix
-Main programming languages: Python, R
-Other programming languages: AWK, Julia, MATLAB(R)
-Other tools: Git, Snakemake, Markdown, LaTeX, HTML
-Graphic design: Adobe Illustrator
-Languages: Spanish (native), English (full professional proficiency)
+- Operating systems: Linux/Unix
+- Main programming languages: Python, R
+- Other programming languages: AWK, Julia, MATLAB(R)
+- Other tools: Git, Snakemake, Markdown, LaTeX, HTML
+- Graphic design: Adobe Illustrator
+- Languages: Spanish (native), English (full professional proficiency)
 
 ## 7. Outreach and community service
 
