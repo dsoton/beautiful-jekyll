@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-# Daniela C. Soto, Ph.D.(c)
+# Daniela C. Soto, Ph.D. candidate
 
 dcsoto [at] ucdavis.edu <br/>
 [github.com/dcsoto](https://github.com/dcsoto) <br/>
@@ -92,7 +92,7 @@ Microbial Biotechnology (Fall 2012) <br/>
 - Operating systems: Linux/Unix
 - Main programming languages: Python, R
 - Other programming languages: AWK, MATLAB
-- Other tools: Git, Snakemake, Markdown, LaTeX, HTML
+- Other tools: Git, Snakemake, Markdown, HTML
 - Graphic design: Adobe Illustrator
 - Languages: Spanish (native), English (full professional proficiency)
 
