@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My essential toolbox for bioinformatics - an update
-tags: [training, bioinformatics, compbio]
+tags: [training, bioinformatics]
 permalink: /2020/03/31/bioinformatics-toolbox-update/
 ---
 
@@ -23,7 +23,7 @@ In bioinformatics, a pipeline is a series of steps that your data undergo in ord
 
 Bioinformatics workflow automation refers to a series of consecutive steps conveniently wrapped in one tool that executes them without you. The main advantage is **reproducibility**, and - let me tell you - bioinformatics is in urgent need of more reproducibility. Also, it's convenient for the researcher; it's not humanly possible to analyze hundreds to thousand of samples without automated workflows.
 
-- **Personal winner**: The best tools for this is [Snakemake](https://snakemake.readthedocs.io/en/stable/) in my opinion. This amazing tool is Python-based, which makes it incredibly flexible and powerful. In Snakemake, a series of rules (or steps in your pipeline) are written in a text file by the user (in this case, you). Then, the `snakemake` command reads the file and executes each step on its own. This means that after you have created the workflow (the text file with rules), you can run your whole pipeline with one simple `enter`. Isn't it cool?
+- **Personal winner**: The best tool for this is [Snakemake](https://snakemake.readthedocs.io/en/stable/) in my opinion. This amazing tool is Python-based, which makes it incredibly flexible and powerful. In Snakemake, a series of rules (or steps in your pipeline) are written in a text file by the user (in this case, you). Then, the `snakemake` command reads the file and executes each step on its own. This means that after you have created the workflow (the text file with rules), you can run your whole pipeline with one simple `enter`. Isn't it cool?
 
 However, there are some caveats to take into account. First - as everything in life - there is a learning curve associated with developing your own automated pipeline. If this is not the focus of your current work, maybe it doesn't make sense to invent the wheel again. Look for automated pipelines available online, but from trustworthy and citable sources! Secondly, if you are running a particular pipeline once and that's it, maybe you don't really need to develop an automated pipeline in the first place. And finally, consider that not everything in this world deserves to be automated (!). Why? Well, data analysis requires looking at your data, checking each step, making plots, testing hypothesis, developing new hypotheses, and so on and so forth. We just cannot automate critical thinking. That's your jobs as a bioinformatician :)
 
