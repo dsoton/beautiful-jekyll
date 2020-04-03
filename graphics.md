@@ -1,5 +1,5 @@
 ---
-title: "Art"
+title: "Graphics"
 show-avatar: false
 logo-list:
   - name: Chilean Society of Plant Biologist
