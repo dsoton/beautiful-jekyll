@@ -1,6 +1,6 @@
 ---
 title: Projects
-bigimg: /img/banners/devel.jpg
+# bigimg:
 logo-list:
   - name: Logotype Design
     desc: Chilean Society of Plant Biologists
