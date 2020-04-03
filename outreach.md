@@ -1,6 +1,7 @@
 ---
-layout: base
+layout: page
 title: Outreach
+css: "/css/outreach.css"
 ---
 
 I have a little-known passion for graphic design and vector drawing. As a consequence, I usually volunteer for every science outreach activity that involves any sort of design. Here are some jobs I have done in the past. (And I am open to help in future projects!)
