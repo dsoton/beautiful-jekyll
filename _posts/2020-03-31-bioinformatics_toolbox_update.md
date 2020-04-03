@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My essential toolbox for bioinformatics - an update
+show-avatar: false
 tags: [training, bioinformatics]
 permalink: /2020/03/31/bioinformatics-toolbox-update/
 ---

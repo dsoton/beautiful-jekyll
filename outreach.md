@@ -1,27 +1,91 @@
 ---
-title: Projects
-# bigimg:
-logo-list:
-  - name: Logotype Design
-    desc: Chilean Society of Plant Biologists
-    url: https://www.biologiavegetal.cl/
-    img: /img/outreach/cspb_logo.png
-  - name: Logotype Design
-    desc: Northern California Computational Biology
-    url: https://nccb.io/
-    img: /img/outreach/nccb_logo.png
-  - name: Logotype Design
-    desc: Northern California Computational Biology Seminar 2019
-    url: https://nccb.io/
-    img: /img/outreach/nccb_2019.png
+layout: base
+title: Outreach
 ---
 
 I have a little-known passion for graphic design and vector drawing. As a consequence, I usually volunteer for every science outreach activity that involves any sort of design. Here are some jobs I have done in the past. (And I am open to help in future projects!)
 
-<br>
-
-## Logotype Desing
-
-{% include list-circles.html items=page.logo-list %}
-
-<br>
+<section class="gallery">
+  <div class="container">
+    <div class="grid">
+      <div class="column-xs-12 column-md-4">
+        <figure class="img-container">
+          <img src="https://source.unsplash.com/8b1cWDyvT7Y" />
+          <figcaption class="img-content">
+            <h2 class="title">Smart Watch</h2>
+            <h3 class="category">Showcase</h3>
+          </figcaption>
+          <span class="img-content-hover">
+            <h2 class="title">Smart Watch</h2>
+            <h3 class="category">Showcase</h3>
+          </span>
+        </figure>
+      </div>
+      <div class="column-xs-12 column-md-4">
+        <figure class="img-container">
+          <img src="https://source.unsplash.com/5VXH4RG88gc" />
+          <figcaption class="img-content">
+            <h2 class="title">Camera Film</h2>
+            <h3 class="category">Showcase</h3>
+          </figcaption>
+          <span class="img-content-hover">
+            <h2 class="title">Camera Film</h2>
+            <h3 class="category">Showcase</h3>
+          </span>
+        </figure>
+      </div>
+      <div class="column-xs-12 column-md-4">
+        <figure class="img-container">
+          <img src="https://source.unsplash.com/XtUd5SiX464">
+          <figcaption class="img-content">
+            <h2 class="title">Coffee</h2>
+            <h3 class="category">Showcase</h3>
+          </figcaption>
+          <span class="img-content-hover">
+            <h2 class="title">Coffee</h2>
+            <h3 class="category">Showcase</h3>
+          </span>
+        </figure>
+      </div>
+      <div class="column-xs-12 column-md-6">
+        <figure class="img-container">
+          <img src="https://source.unsplash.com/JYGnB9gTCls" />
+          <figcaption class="img-content">
+            <h2 class="title">Phone</h2>
+            <h3 class="category">Showcase</h3>
+          </figcaption>
+          <span class="img-content-hover">
+            <h2 class="title">Phone</h2>
+            <h3 class="category">Showcase</h3>
+          </span>
+        </figure>
+      </div>
+      <div class="column-xs-12 column-md-6">
+        <figure class="img-container">
+          <img src="https://source.unsplash.com/-RBuQ2PK_L8" />
+          <figcaption class="img-content">
+            <h2 class="title">Keyboard</h2>
+            <h3 class="category">Showcase</h3>
+          </figcaption>
+          <span class="img-content-hover">
+            <h2 class="title">Keyboard</h2>
+            <h3 class="category">Showcase</h3>
+          </span>
+        </figure>
+      </div>
+      <div class="column-xs-12">
+        <figure class="img-container">
+          <img src="https://source.unsplash.com/P44RIGl9V54" />
+          <figcaption class="img-content">
+            <h2 class="title">Wrist Watch</h2>
+            <h3 class="category">Showcase</h3>
+          </figcaption>
+          <span class="img-content-hover">
+            <h2 class="title">Wrist Watch</h2>
+            <h3 class="category">Showcase</h3>
+          </span>
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>

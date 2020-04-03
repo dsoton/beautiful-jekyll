@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My essential toolbox for bioinformatics
+show-avatar: false
 tags: [training, bioinformatics]
 permalink: /2018/07/06/bioinformatics-toolbox/
 ---
