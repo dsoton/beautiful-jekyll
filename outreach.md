@@ -1,92 +1,40 @@
 ---
-layout: page
+layout: base
 title: Outreach
 css: "/css/outreach.css"
 ---
 
 I have a little-known passion for graphic design and vector drawing. As a consequence, I usually volunteer for every science outreach activity that involves any sort of design. Here are some jobs I have done in the past. (And I am open to help in future projects!)
 
-<section class="gallery">
-  <div class="container">
-    <div class="grid">
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/8b1cWDyvT7Y" />
-          <figcaption class="img-content">
-            <h2 class="title">Smart Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Smart Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/5VXH4RG88gc" />
-          <figcaption class="img-content">
-            <h2 class="title">Camera Film</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Camera Film</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-4">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/XtUd5SiX464">
-          <figcaption class="img-content">
-            <h2 class="title">Coffee</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Coffee</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-6">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/JYGnB9gTCls" />
-          <figcaption class="img-content">
-            <h2 class="title">Phone</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Phone</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12 column-md-6">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/-RBuQ2PK_L8" />
-          <figcaption class="img-content">
-            <h2 class="title">Keyboard</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Keyboard</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
-      <div class="column-xs-12">
-        <figure class="img-container">
-          <img src="https://source.unsplash.com/P44RIGl9V54" />
-          <figcaption class="img-content">
-            <h2 class="title">Wrist Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </figcaption>
-          <span class="img-content-hover">
-            <h2 class="title">Wrist Watch</h2>
-            <h3 class="category">Showcase</h3>
-          </span>
-        </figure>
-      </div>
+<div id="portfolio-out">
+    <div id="portfolio">
+        <div id="portfolio-title">
+            Logotype design
+            <span class="fa fa-arrow-circle-down fa-fw" aria-hidden="true"></span>
+        </div>
+        <div id="shinyapps-big" data-columns>
+            <div class="shinyapp">
+                <a class="applink" href="https://www.biologiavegetal.cl/">
+                    <img class="appimg" src="/img/outreach/cspb.png" />
+                    <div class="apptitle">
+                        Chilean Society of Plant Biologists
+                    </div>
+                    <div class="appdesc">
+                        Logotype design.
+                    </div>
+                </a>
+            </div>
+            <div class="shinyapp">
+                <a class="applink" href="https://nccb.io/">
+                    <img class="appimg" src="/img/outreach/nccb_logo.png" />
+                    <div class="apptitle">
+                        Northern California Computational Biology
+                    </div>
+                    <div class="appdesc">
+                        Logotype and T-shirt design.
+                    </div>
+                </a>
+            </div>
+        </div>
     </div>
-  </div>
-</section>
+</div>
