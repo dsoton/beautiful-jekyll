@@ -75,10 +75,11 @@ Microbial Biotechnology (Fall 2012) <br/>
 ### Selected talks
 
 * Daniela C. Soto, Aarthi Sekar, Gulhan Kaya, Ruta Sahasrabudhe, Lutz Froenicke, Megan Y. Dennis. Long-read sequencing to assay complex regions of the human genome . 5th Annual UC Davis Health Human Genomics Symposium. November 2019.
-* Soto D., Varala K., Araus V., Carrasco-Puga G., Díaz F., Nilo-Poyanco R., Coruzzi G., Gutiérrez R. Metatranscriptomic approach reveals conserved adaptive processes in Atacama Desert plants. XI Chilean Plant Biology Meeting, Chillán, Chile. November 2016. **Best oral presentation.**
+* Soto D., Varala K., Araus V., Carrasco-Puga G., Díaz F., Nilo-Poyanco R., Coruzzi G., Gutiérrez R. Metatranscriptomic approach reveals conserved adaptive processes in Atacama Desert plants. XI Chilean Plant Biology Meeting, Chillán, Chile. November 2016. **Best talk award.**
 
 ### Selected posters
 
+* Daniela C. Soto, Aarthi Sekar, Gulhan Kaya, Ruta Sahasrabudhe, Megan Y. Dennis. Genomic variant detection within human-specific segmental duplications. Integrative Genetics and Genomics Colloquium, Davis, CA. September 2019. **Best poster award.**
 * Daniela C. Soto, Ruta Sahasrabudhe, Gulhan Kaya, Lutz Froenicke, Megan Y. Dennis. Whole-genome sequencing of CHM1 and CHM13 haploid human cell lines for variant discovery in complex genomic regions. ONT Community Meeting, San Francisco, CA. November 2018.
 
 ## 6. Fellowships and Awards
