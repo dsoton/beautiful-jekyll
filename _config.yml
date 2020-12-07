@@ -24,7 +24,7 @@ description: This is my personal website :)
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "/pdf/cv_dcsoto.pdf"
+  CV: "pdf/cv_dcsoto.pdf"
   Illustration: "404"
   Dennis Lab: "https://www.dennislab.org/"
 #  Resources:
