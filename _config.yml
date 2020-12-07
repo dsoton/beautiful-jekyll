@@ -23,9 +23,9 @@ description: This is my personal website :)
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   CV: "pdf/cv_dcsoto.pdf"
   Illustration: "404"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
